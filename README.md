@@ -8,7 +8,7 @@ Car price estimation is a common problem in the automotive industry and can be a
 
 ## Data
 
-The data used for training and testing the model is sourced from [source name or link]. It includes information about various cars including their make, model, year, kilometer, price, and other relevant features.
+The data used for training and testing the model is sourced from [Arabam.com](https://www.arabam.com/). It includes information about various cars including their make, model, year, kilometer, price, and other relevant features.
 
 ## Methodology
 
